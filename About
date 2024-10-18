@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Tristan Jay Bautista</h1>
+        </div>
+            <div class="top-nav">
+                <a class="active" href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+            </div>
+                <link rel="stylesheet" href="styleabout.css">
+                <div class="about-section">
+                    <h1>About Page</h1>
+                        <p>
+                          Hello! My name is Tristan Jay Bautista. I am pursuing a degree in Computer technology 
+                          at Palau Community College. I am passionate about technology and eager to apply my knowledge 
+                          in real-world projects. In my free time, I enjoy watching coding, exploring new technologies,
+                          and collaborating with others to solve complex problems. 
+                      </p>
+                </div>
+
+                        <h2 style="text-align:center">Me</h2>
+                    <div class="row">
+                            <div class="column">
+                                <div class="card">
+                                <img src="./Jacket.jpg" alt="Jane" style="width:100%">
+                    <div class="container">
+                        <h2>Tristan Jay Bautista</h2>
+                            <p class="title">Student</p>
+                            <ul>
+                                <li>I attend Palau Community College and Major in Informaton technology.</li>
+                                <li>I am a member of Palau Basketball Federation</li>
+                                <li>I join the intramurals tournament in PCC</li>
+                            </ul>
+                            <p>tristanjaybautista8@gmail.com</p>
+                            <p><button class="button">Contact</button></p>
+                            </div>
+                    </div>
+                    </div>
+    </div>
+    <div class="copyright">
+        <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+      </div>
+</body>

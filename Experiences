@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Tristan Jay Bautista</h1>
+        </div>
+            <div class="top-nav">
+                <a active href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+            </div>
+             <div class="row">
+                <div class="leftcolumn">
+                    <div class="card">
+                        <h1>Experiences</h1>
+                            <h3>Koror Animal Shelter, 2021–2023</h3>
+                                <p>As a Veterinarian in animal shelter plays a crucial role in ensuring the health and well
+                                    being of the animals.  
+                                </p>
+                    </div>
+                    <div class="card">
+                    <h3>Palau Curtain, January 2023–May 2023</h3>
+                    <p>
+                       I worked there for like 5 months as a General management, 
+                    </p>
+                </div>
+            </div>
+    </div>
+    <div class="copyright">
+        <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+      </div>
+ </body>           

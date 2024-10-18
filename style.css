@@ -1,0 +1,79 @@
+
+body {
+    background-color: gray;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+
+.header {
+    padding: 60px;
+  text-align: center;
+  background-color: black;
+  color: rgb(192, 158, 47);
+  font-size: 30px;
+}
+
+.top-nav {
+    background-color:rgb(235, 157, 55);
+    overflow: hidden;
+}
+
+.top-nav a {
+    float: left;
+    color: rgb(40, 20, 20);
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    border: white 10px;
+}
+
+.top-nav a:hover {
+    background-color: rgb(57, 8, 8);
+    color: black;
+}
+
+
+.p {
+    background-color: rgb(205, 196, 196);
+    color: black;
+    margin: 20%;
+    padding: 20px;
+    font-size: larger;
+    left: 60%;
+    right: 70%;
+    top: 10%;
+}
+p>img {
+    position: relative;
+}
+
+.copyright {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+ /* Two image containers (50% for two, etc) */
+ .column {
+    float: right;
+    width: 33.33%;
+    padding: 5px;
+    }
+
+    /* Clear floats after image containers */
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    .row {
+    display: flex;
+    }
+
+    .column {
+    flex: 33.33%;
+     padding: 5px;

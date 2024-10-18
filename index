@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Welcome to Tristan's E-portfolio</h1>
+        </div>
+            <div class="top-nav">
+                <a active href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+                  </div>
+                  <div class="row">
+                    <div class="column">
+                      <img src="./wqeqq.jpg" alt="Snow" style="width:100%">
+                    </div>
+                    <div class="column">
+                      <img src="./zxcvvxz.jpg" alt="Forest" style="width:100%">
+                    </div>
+                  </div>
+            <style>
+            img {
+               
+                width: 500px;
+                height: 500px;
+                top: 0;
+            }
+            /* Two image containers (50% for two, etc) */
+            .column {
+             float: left;
+            width: 33.33%;
+            padding: 5px;
+            }
+
+            /* Clear floats after image containers */
+            .row::after {
+             content: "";
+            clear: both;
+            display: table;
+            }
+            .row {
+            display: flex;
+            }
+
+            .column {
+            flex: 33.33%;
+            padding: 5px;
+            }
+           
+}
+}
+}
+
+} 
+            
+            </style>
+            
+                <div class="p">
+                <p>
+                    Hello! My name is Tristan Jay Bautista and I am majoring Information Technology 
+                    at Palau Community College. Through this pages, I hope to showcase my vision, 
+                    experiences and portfolio. Please contact me with any questions or concerns. 
+                 </p>
+                </div>
+           
+             
+            <div class="copyright">
+                <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+              </div>
+    </div>
+
+</body>
+</html>

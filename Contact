@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Tristan Jay Bautista</h1>
+        </div>
+            <div class="top-nav">
+                <a class="active" href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+             </div>
+<div class="container">
+    <link rel="stylesheet" href="stylecontact.css">
+    <div style="text-align:center">
+      <h2>Contact Us</h2>
+      <p>Call for more info, or leave me a message:</p>
+    </div>
+    <div class="row">
+      <div class="column">
+        <img src="./Suit.jpg" style="width:100%">
+      </div>
+      <div class="column">
+        <form action="/action_page.php">
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+          <label for="country">Country</label>
+          <input type="text" id="country" name="country" placeholder="Your country...">
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+    </div>
+  </div>
+  </div>
+  <div class="copyright">
+    <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+  </div>
+</body>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Tristan Jay Bautista</h1>
+        </div>
+            <div class="top-nav">
+                <a active href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+            </div>
+    <img src="./img.jpg.jpg" alt="Tristan's Award">
+    <style>
+        img {
+            width: 500px;
+            height: 500px;
+            padding: 20px;
+        }
+        .column {
+            color: black;
+        }
+    </style>
+                <div class="column">
+                    <h1> Hobbies </h1>
+                        <h2>Favorites</h2>
+                        <ul>
+                            <li>I Enjoy Watching Movies</li>
+                            <li>I Enjoy Playing Basketball</li>
+                            <li>I Enjoy playing in the big tournament like NBL & FBL</li>
+                            <li>I find a lot of comfort when i go to the track</li>
+                            <li>I Love swimming
+                            <li>I Enjoy hanging out with my friends
+                            </li>I Love Watching NBA games </li>
+                            <li>My Favorite Idol is Allen Iverson</li>
+                            <li>I enjoy playing basketball at night</li>
+                        </ul>
+                        <h2>Dislikes</h2>
+                        <ul>
+                            <li>As a Basketball player I dislike getting injuries</li>
+                            <li>I don't like people who talks bad behind their friends</li>
+                            <li>I dislike people who smokes</li>
+                            <li>I dislike like Lebron james </li>
+                        </ul>
+                </div>
+
+
+
+
+    </div>
+    <div class="copyright">
+        <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+    </div>
+</body>

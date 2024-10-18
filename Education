@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Tristan Jay Bautista's E-Portfolio</title>
+</head>
+<body>
+    <div class="Container">
+        <div class="header">
+            <h1>Tristan Jay Bautista</h1>
+        </div>
+            <div class="top-nav">
+                <a active href="index">Home</a>
+                 <a href="Education">Education</a>
+                 <a href="Experiences">Experiences</a>
+                 <a href="Personal Life">Personal Life</a>
+                 <a href="About">About</a>
+                 <a href="Contact">Contact</a>
+             </div>
+                <h2>Palau High school, August 2019 – June 2023</h2>
+                    <p>
+                        I studied Automotive technology and finished at the top of my major, 
+                        with a GPA of 3.97 of a 4.5 GPA Scale. I was also the senior class 
+                        President of the Class of ’23 and was the temporary Vice-president for 
+                        the school Sports Club.
+                    </p>
+                <h2>Palau Community College, August 2023 - Present</h2>
+                    <p>
+                        I am currently a college student at PCC and I have decided to study IT. 
+                        This is the very course that will involve software development. I am also currently 
+                        the president elect of ASPCC. After completing my major, i will be recieving an associate's degree.
+                    </p>
+
+
+
+
+
+
+    <div class="copyright">
+        <p>&copy; Copyright 2024 by Tristan Jay Bautista</p>
+    </div>
